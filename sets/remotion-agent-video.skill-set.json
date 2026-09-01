@@ -1,8 +1,8 @@
 {
   "$schema": "https://skill-set.md/schema/draft/skill-set.schema.json",
-  "name": "remotion-agent-video",
+  "name": "remotion-agent-cli-video",
   "version": "0.1.0",
-  "description": "Build Remotion videos that show a coding agent at work, with user interaction. Create a realistic claude-code terminal simulation, product demos, launch videos and feature explainers.",
+  "description": "Build Remotion videos that show a coding agent at work, with user interaction. Create a realistic Claude-Code terminal simulation, product demos, launch videos and feature explainers.",
   "author": {
     "name": "flocker.md",
     "url": "https://flocker.md"
