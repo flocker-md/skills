@@ -1,0 +1,14 @@
+{
+  "name": "remotion-agent-video",
+  "version": "0.1.0",
+  "description": "Build Remotion videos that show a coding agent at work — product demos, launch videos and feature explainers.",
+  "author": {
+    "name": "flocker.md",
+    "url": "https://flocker.md"
+  },
+  "homepage": "https://github.com/flocker-md/skills",
+  "skills": [
+    "flocker-md/skills@claude-code-remotion",
+    "flocker-md/skills@user-typing-animation"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "flocker-skills",
+  "owner": {
+    "name": "flocker.md",
+    "url": "https://flocker.md"
+  },
+  "metadata": {
+    "description": "Agent Skills published by flocker.md.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "remotion-agent-video",
+      "description": "Simulate a Claude Code terminal session in Remotion, with human typing and realistic pacing.",
+      "source": "./",
+      "strict": false,
+      "category": "video",
+      "tags": ["remotion", "video", "animation", "claude-code"],
+      "skills": [
+        "./skills/claude-code-remotion",
+        "./skills/user-typing-animation"
+      ]
+    }
+  ]
+}
