@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "remotion-agent-video",
+  "setVersion": "0.1.0",
+  "setHash": "4f2a93b1dc800c8495556886e38a050312270874742886fd81d26e8e64ec3696",
+  "skills": {
+    "flocker-md/skills@claude-code-remotion#v0.1.0": {
+      "skill": "claude-code-remotion",
+      "computedHash": "d607bcc8a536003de2a635203831164c55b22191ce649c313af718c8c5231717",
+      "sourceType": "github",
+      "ref": "v0.1.0"
+    },
+    "flocker-md/skills@user-typing-animation#v0.1.0": {
+      "skill": "user-typing-animation",
+      "computedHash": "3ff1edd432c1cb24c2c525930960d31c7701c9488e07d937e6d0bfc47dea8431",
+      "sourceType": "github",
+      "ref": "v0.1.0"
+    }
+  }
+}

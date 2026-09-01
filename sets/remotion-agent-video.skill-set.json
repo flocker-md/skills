@@ -1,14 +1,15 @@
 {
+  "$schema": "https://skill-set.md/schema/draft/skill-set.schema.json",
   "name": "remotion-agent-video",
   "version": "0.1.0",
-  "description": "Build Remotion videos that show a coding agent at work — product demos, launch videos and feature explainers.",
+  "description": "Build Remotion videos that show a coding agent at work, with user interaction. Create a realistic claude-code terminal simulation, product demos, launch videos and feature explainers.",
   "author": {
     "name": "flocker.md",
     "url": "https://flocker.md"
   },
   "homepage": "https://github.com/flocker-md/skills",
   "skills": [
-    "flocker-md/skills@claude-code-remotion",
-    "flocker-md/skills@user-typing-animation"
+    "flocker-md/skills@claude-code-remotion#v0.1.0",
+    "flocker-md/skills@user-typing-animation#v0.1.0"
   ]
 }

@@ -41,7 +41,7 @@ Or install the set with the `skill-set` CLI, which pins each member to a
 verified content hash:
 
 ```bash
-npx @skill-set/cli add https://raw.githubusercontent.com/flocker-md/skills/main/sets/remotion-agent-video.skill-set.json
+npx @skill-set/cli add https://raw.githubusercontent.com/flocker-md/skills/main/sets/remotion-agent-video.skill-set.json#sha256=4f2a93b1dc800c8495556886e38a050312270874742886fd81d26e8e64ec3696
 ```
 
 Or install with the `skills` CLI, which supports other agents too:
